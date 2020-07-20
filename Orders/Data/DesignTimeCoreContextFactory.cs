@@ -10,7 +10,7 @@ namespace Data
             var connectionString = "Server=(localdb)\\mssqllocaldb;Database=Orders;Trusted_Connection=True;";
 
             var optionsBuilder = new DbContextOptionsBuilder<CoreContext>()
-                .UseSqlServer(connectionString);
+                    .UseSqlServer(connectionString);
 
             return new CoreContext(optionsBuilder.Options);
         }

@@ -4,17 +4,9 @@ namespace Data
 {
     public class CoreContext : DbContext
     {
-        public CoreContext()
-        {
-        }
         public CoreContext(DbContextOptions<CoreContext> options)
             : base(options)
         {
-        }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=Orders;Trusted_Connection=True;");
         }
 
         public DbSet<Good> Goods { get; set; }

@@ -1,18 +1,15 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Threading.Tasks;
+using Data;
 using Infrastructure;
+using Infrastructure.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
+using Serilog;
 
 namespace WebApplication2
 {
@@ -35,6 +32,9 @@ namespace WebApplication2
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            var connectionString = Configuration.GetConnectionString("MyConnectionString");
+            services.AddScoped(p => new CoreContext(new DbContextOptionsBuilder<CoreContext>()
+                .UseSqlServer(connectionString).Options));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddSwaggerGen(options =>
@@ -48,13 +48,27 @@ namespace WebApplication2
                 });
             });
 
-            services.AddScoped<IFileValidator, FileValidator>();
-            services.AddScoped<IFileHandler, IFileHandler>();
+            services.AddScoped<IReaderFileService, ReaderFileService>();
+            services.AddScoped<IFileValidatorService, FileValidatorService>();
+            services.AddScoped<IParserFileService, ParserFileService>();
+            services.AddScoped<IFileHandlerService, FileHandlerService>();
+            services.AddScoped<IRepository, Repository>();
+            services.AddScoped<IScannerService, ScannerService>();
+
+            ServiceProvider serviceProvider = services.BuildServiceProvider();
+            var scanner = serviceProvider.GetService<IScannerService>();
+
+            var scheduler = new StartSchedulerScanner(scanner);
+            scheduler.RunScheduller();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            Log.Logger = new LoggerConfiguration()
+                 .MinimumLevel.Error()
+                 .WriteTo.File(Configuration.GetValue<string>("Log:FilePath"), rollingInterval: RollingInterval.Day)
+                 .CreateLogger();
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -65,7 +79,6 @@ namespace WebApplication2
                 app.UseHsts();
             }
 
-            var pathBase = Configuration["PATH_BASE"];
             app.UseSwagger();
 
             app.UseSwaggerUI(setup =>

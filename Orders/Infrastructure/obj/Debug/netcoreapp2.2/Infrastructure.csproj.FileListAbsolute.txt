@@ -15,9 +15,9 @@ C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\bin\Debug\net
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\bin\Debug\netcoreapp2.2\Data.dll
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\bin\Debug\netcoreapp2.2\Data.pdb
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
-C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
 C:\Users\a.manukyan\source\repos\Orders\test\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
