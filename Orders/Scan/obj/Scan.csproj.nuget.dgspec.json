@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ашот\\source\\repos\\Orders\\Scan\\Scan.csproj": {}
+    "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Scan\\Scan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ашот\\source\\repos\\Orders\\Data\\Data.csproj": {
+    "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ашот\\source\\repos\\Orders\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Ашот\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Data\\obj\\",
+        "projectPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\a.manukyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ашот\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a.manukyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://s-tfs/DeveloperCollection/_packaging/Intellectica_Package/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -70,24 +71,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ашот\\source\\repos\\Orders\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ашот\\source\\repos\\Orders\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Ашот\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\a.manukyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ашот\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a.manukyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,13 +96,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://s-tfs/DeveloperCollection/_packaging/Intellectica_Package/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Ашот\\source\\repos\\Orders\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Data\\Data.csproj"
+              "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Data\\Data.csproj"
               }
             }
           }
@@ -136,24 +138,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ашот\\source\\repos\\Orders\\Scan\\Scan.csproj": {
+    "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Scan\\Scan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ашот\\source\\repos\\Orders\\Scan\\Scan.csproj",
+        "projectUniqueName": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Scan\\Scan.csproj",
         "projectName": "Scan",
-        "projectPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Scan\\Scan.csproj",
-        "packagesPath": "C:\\Users\\Ашот\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Scan\\obj\\",
+        "projectPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Scan\\Scan.csproj",
+        "packagesPath": "C:\\Users\\a.manukyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Scan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ашот\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a.manukyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,13 +163,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://s-tfs/DeveloperCollection/_packaging/Intellectica_Package/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Ашот\\source\\repos\\Orders\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Ашот\\source\\repos\\Orders\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -206,7 +209,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
