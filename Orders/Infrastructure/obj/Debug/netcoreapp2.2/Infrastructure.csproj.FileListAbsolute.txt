@@ -1,0 +1,11 @@
+C:\Users\Ашот\source\repos\Orders\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Users\Ашот\source\repos\Orders\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Ашот\source\repos\Orders\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\Ашот\source\repos\Orders\Infrastructure\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Ашот\source\repos\Orders\Infrastructure\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Ашот\source\repos\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ашот\source\repos\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ашот\source\repos\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\Ашот\source\repos\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+C:\Users\Ашот\source\repos\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Ашот\source\repos\Orders\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb

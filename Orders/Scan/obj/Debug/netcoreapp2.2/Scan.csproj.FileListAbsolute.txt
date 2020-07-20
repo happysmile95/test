@@ -1,0 +1,17 @@
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Scan.deps.json
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Scan.runtimeconfig.json
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Scan.runtimeconfig.dev.json
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Scan.dll
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Scan.pdb
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\Ашот\source\repos\Orders\Scan\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.csprojAssemblyReference.cache
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.AssemblyInfoInputs.cache
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.AssemblyInfo.cs
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.csproj.CopyComplete
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.dll
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.pdb
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.genruntimeconfig.cache
+C:\Users\Ашот\source\repos\Orders\Scan\obj\Debug\netcoreapp2.2\Scan.csproj.CoreCompileInputs.cache

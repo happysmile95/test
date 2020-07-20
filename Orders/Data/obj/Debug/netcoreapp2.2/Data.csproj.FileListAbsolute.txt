@@ -1,0 +1,12 @@
+C:\Users\Ашот\source\repos\Orders\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\Ашот\source\repos\Orders\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Ашот\source\repos\Orders\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\Ашот\source\repos\Orders\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\Ашот\source\repos\Orders\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+C:\Users\Ашот\source\repos\Orders\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json
+C:\Users\Ашот\source\repos\Orders\Data\obj\Debug\netcoreapp2.2\Data.genruntimeconfig.cache
+C:\Users\Ашот\source\repos\Orders\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Ашот\source\repos\Orders\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ашот\source\repos\Orders\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\Ашот\source\repos\Orders\Data\obj\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Ашот\source\repos\Orders\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
