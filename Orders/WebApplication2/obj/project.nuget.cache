@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "J4ABaVZQ4bFNpQtjNPu6nT2LQKxw3COMpWWIfly/VcyczhBOrrFvsUFd0AN+mxkFG8LY0bh6qu6dcXAJnXku1A==",
-  "success": false,
+  "dgSpecHash": "mseZkMi0BdEFyXdhpJewzLfdfOletfsmi7JFMPGa9bvErndNrYeXAZjIJoUjaaOcJlPc3Jol6Fpf37vyWpbpJw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\a.manukyan\\source\\repos\\Orders\\test\\Orders\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
@@ -44,7 +44,7 @@
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.http.connections\\1.1.0\\microsoft.aspnetcore.http.connections.1.1.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\1.1.0\\microsoft.aspnetcore.http.connections.common.1.1.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
-    "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\microsoft.aspnetcore.http.features.3.1.6.nupkg.sha512",
+    "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.httpoverrides\\2.2.0\\microsoft.aspnetcore.httpoverrides.2.2.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.httpspolicy\\2.2.0\\microsoft.aspnetcore.httpspolicy.2.2.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
@@ -159,7 +159,7 @@
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.2.0\\microsoft.extensions.options.configurationextensions.2.2.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.extensions.options.dataannotations\\2.2.0\\microsoft.extensions.options.dataannotations.2.2.0.nupkg.sha512",
-    "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.extensions.webencoders\\2.2.0\\microsoft.extensions.webencoders.2.2.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.3.0\\microsoft.identitymodel.jsonwebtokens.5.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\microsoft.identitymodel.logging\\5.3.0\\microsoft.identitymodel.logging.5.3.0.nupkg.sha512",
@@ -233,11 +233,11 @@
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\a.manukyan\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512",
+    "C:\\Users\\a.manukyan\\.nuget\\packages\\system.io.pipelines\\4.5.2\\system.io.pipelines.4.5.2.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
-    "C:\\Users\\a.manukyan\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\a.manukyan\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.net.websockets.websocketprotocol\\4.5.1\\system.net.websockets.websocketprotocol.4.5.1.nupkg.sha512",
@@ -254,7 +254,7 @@
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\a.manukyan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\a.manukyan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
@@ -296,15 +296,5 @@
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\a.manukyan\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1107",
-      "level": "Error",
-      "message": "Version conflict detected for Microsoft.AspNetCore.Http.Features. Install/reference Microsoft.AspNetCore.Http.Features 3.1.6 directly to project WebApplication2 to resolve this issue. \r\n WebApplication2 -> Infrastructure -> Microsoft.AspNetCore.Http.Features (>= 3.1.6) \r\n WebApplication2 -> Microsoft.AspNetCore.App 2.2.0 -> Microsoft.AspNetCore.Http.Features (>= 2.2.0 && < 2.3.0).",
-      "libraryId": "Microsoft.AspNetCore.Http.Features",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    }
-  ]
+  "logs": []
 }
